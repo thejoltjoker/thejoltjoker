@@ -28,6 +28,10 @@ Welcome to my GitHub profile!
 - 🦤 [Redlisted Species Quiz](https://github.com/thejoltjoker/redlisted-species-quiz): Quiz yourself on redlisted species.
 - 👋 [Address Book](https://github.com/thejoltjoker/FSU23D-assignment-02): A little web app for storing contacts.
 
+### 🐘 Laravel
+
+- 📫 [Mail Lemur](https://github.com/thejoltjoker/FSU23D-mail-lemur): A SaaS-web app built in Laravel, to manage newsletters.
+
 ## Desktop Apps
 
 - 💬 [ChatGPT for Maya](https://github.com/thejoltjoker/ChatGPTforMaya):  The power of ChatGPT directly in Autodesk Maya.
