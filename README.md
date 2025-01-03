@@ -21,6 +21,7 @@ Welcome to my GitHub profile!
 
 ### 🦾 Svelte
 
+- 👾 [Kreacon](https://github.com/thejoltjoker/kreacon): Platform for creative competitions.
 - 🏍️ [Hillclimb Casino](https://github.com/thejoltjoker/hillclimb-casino): Live betting app.
 
 ### 🍦 Vanilla
