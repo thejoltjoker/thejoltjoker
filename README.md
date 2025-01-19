@@ -15,6 +15,9 @@ Welcome to my GitHub profile!
 - ✏️ [Todo App](https://github.com/thejoltjoker/react-todo-app): A web developer profile wouldn't be complete without one.
 - 😻 [SnapCat](https://github.com/thejoltjoker/snapcat): Mock social media for cats.
 
+### 🅰️ Angular
+- 🩻 [Extreme News](https://github.com/thejoltjoker/extreme-news):  A magazine for the latest extreme sports news .
+
 ### 💚 Vue
 
 - 🛡️ [Vacay Mania Brawl Club Dashboard](https://github.com/thejoltjoker/vmbc-dashboard): Player dashboard for members of Vacay Mania Brawl Club.
@@ -24,7 +27,7 @@ Welcome to my GitHub profile!
 - 👾 [Kreacon](https://github.com/thejoltjoker/kreacon): Platform for creative competitions.
 - 🏍️ [Hillclimb Casino](https://github.com/thejoltjoker/hillclimb-casino): Live betting app.
 
-### 🍦 Vanilla
+### 🍦 Vanilla JS
 
 - 🦤 [Redlisted Species Quiz](https://github.com/thejoltjoker/redlisted-species-quiz): Quiz yourself on redlisted species.
 - 👋 [Address Book](https://github.com/thejoltjoker/FSU23D-assignment-02): A little web app for storing contacts.
@@ -33,10 +36,12 @@ Welcome to my GitHub profile!
 
 - 📫 [Mail Lemur](https://github.com/thejoltjoker/FSU23D-mail-lemur): A SaaS-web app built in Laravel, to manage newsletters.
 
-## Desktop Apps
+## Desktop
 
-- 💬 [ChatGPT for Maya](https://github.com/thejoltjoker/ChatGPTforMaya):  The power of ChatGPT directly in Autodesk Maya.
+- 💬 [ChatGPT for Maya](https://github.com/thejoltjoker/ChatGPTforMaya): The power of ChatGPT directly in Autodesk Maya.
 - 🏞️ [Offload](https://github.com/thejoltjoker/offload): Simple tool for offloading files from memory cards.
+- 🦙 [Lightroom Llama](https://github.com/thejoltjoker/lightroom-llama): A lightroom plugin for interacting with ollama.
+- ⚡ [Lightroom Power Collection](https://github.com/thejoltjoker/lightroom-power-collection): Lightroom plugin to create a smart collection to semi-automate publishing.
 
 ## Available for Freelance Work
 
