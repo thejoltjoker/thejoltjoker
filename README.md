@@ -24,6 +24,7 @@ Welcome to my GitHub profile!
 
 ### 🦾 Svelte
 
+- ⛴️ [Hinner Jag Färjan?](https://ferry.sideproject.se/): A web app to check your ETA to the nearest ferry.
 - 👾 [Kreacon](https://github.com/thejoltjoker/kreacon): Platform for creative competitions.
 - 🏍️ [Hillclimb Casino](https://github.com/thejoltjoker/hillclimb-casino): Live betting app.
 
