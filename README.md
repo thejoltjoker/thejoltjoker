@@ -44,6 +44,9 @@ Welcome to my GitHub profile!
 - 🦙 [Lightroom Llama](https://github.com/thejoltjoker/lightroom-llama): A lightroom plugin for interacting with ollama.
 - ⚡ [Lightroom Power Collection](https://github.com/thejoltjoker/lightroom-power-collection): Lightroom plugin to create a smart collection to semi-automate publishing.
 
+## AI Assisted
+- 🏞️ [Collage Maker](https://github.com/thejoltjoker/collage-maker): Free online photo collage editor.
+
 ## Available for Freelance Work
 
 I'm currently available for freelance projects. Feel free to reach out to discuss potential collaborations!
